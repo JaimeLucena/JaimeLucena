@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Jaime Lucena  
 
 🤖 **Generative AI Engineer**  
-I'm a Generative AI Engineer based in Granada, Spain, focused on building practical AI applications with **LangChain**, **LangGraph**, and **modern agent architectures**.  
+I'm focused on building practical AI applications with **LangChain**, **LangGraph**, and **modern agent architectures**.  
 I’m passionate about making AI development accessible through **hands-on tutorials** and **production-ready implementations**.  
 
 ---
