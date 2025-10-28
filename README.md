@@ -21,7 +21,7 @@ Passionate about making AI development accessible through hands-on projects and 
 |-------------|-------------|
 | [**01-python-fundamentals**](https://github.com/JaimeLucena/01-python-fundamentals) | The Python you really need for LLMs (concise, modern, hands-on) |
 | [**02-langchain-beginners**](https://github.com/JaimeLucena/02-langchain-beginners) | Learn LangChain fundamentals the modern way (LCEL, prompt, RAG) |
-| [**03-agents-and-apps-foundations**](https://github.com/JaimeLucena/03-agents-and-apps-foundations) | Learn how to **build and orchestrate AI agents** using LangGraph, CrewAI, FastAPI, and Streamlit. |
+| [**03-agents-and-apps-foundations**](https://github.com/JaimeLucena/03-agents-and-apps-foundations) | Learn how to **build and orchestrate AI agents** using LangGraph, CrewAI, FastAPI and Streamlit. |
 
 ---
 
