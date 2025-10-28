@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Jaime Lucena  
 
 🤖 **Generative AI Engineer**  
-I'm focused on building practical AI applications with **LangChain**, **LangGraph**, and **modern agent architectures**.  
-I’m passionate about making AI development accessible through **hands-on tutorials** and **production-ready implementations**.  
+I build practical AI applications and share what I learn along the way.
+Passionate about making AI development accessible through hands-on projects and clear explanations.
 
 ---
 
