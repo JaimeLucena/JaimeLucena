@@ -47,7 +47,6 @@ Thank you for helping keep **Generative AI education free for everyone** 🙏
 ## 🔗 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaime-lucena-130524254/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/JaimeLucena)
 [![dev.to](https://img.shields.io/badge/dev.to-000000?logo=devdotto&logoColor=white)](https://forem.com/jaime_lucenaprez_3f7722)
 
 ---
