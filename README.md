@@ -33,7 +33,7 @@ A structured, hands-on journey from Python fundamentals to building production-r
 | **01** | [**python-fundamentals**](https://github.com/JaimeLucena/01-python-fundamentals) | The Python you really need for LLMs (concise, modern, hands-on) |
 | **02** | [**langchain-beginners**](https://github.com/JaimeLucena/02-langchain-beginners) | Learn LangChain fundamentals the modern way (LCEL, prompts, RAG) |
 | **03** | [**agents-and-apps-foundations**](https://github.com/JaimeLucena/03-agents-and-apps-foundations) | Build and orchestrate AI agents using LangGraph, CrewAI, FastAPI & Streamlit |
-| **04** | [**ai-learning-projects**](https://github.com/JaimeLucena/04-ai-learning-projects) | 7 production-ready AI applications showcasing advanced patterns |
+| **04** | [**ai-learning-projects**](https://github.com/JaimeLucena/04-ai-learning-projects) | 7 Learning AI applications showcasing advanced patterns |
 
 > 💡 **Start with module 01** and progress sequentially. Each module builds on the previous one!
 
