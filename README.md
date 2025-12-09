@@ -7,7 +7,6 @@ I build practical AI applications and share what I learn along the way.
 Passionate about making AI development accessible through hands-on projects and clear explanations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaime-lucena-130524254/)
-[![dev.to](https://img.shields.io/badge/dev.to-000000?logo=devdotto&logoColor=white)](https://forem.com/jaime_lucenaprez_3f7722)
 
 </div>
 
